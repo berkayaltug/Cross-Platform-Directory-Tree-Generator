@@ -63,15 +63,36 @@ Enter folders to exclude content only (use `+`): build+,dist+
 ============================================================
 Cross-Platform Visual Directory Tree Generator (Python)
 ============================================================
-Generated on: 2025-06-26 15:42:50
-Total folders: 10
-Total files: 50
+Generated on: 2025-06-27 00:28:38
+Total folders: 12
+Total files: 16
 ============================================================
-+-- src
-|   +-- main.py
-|   +-- utils.py
-+-- data
-|   +-- dataset.csv
++-- Sample - Project
+|   +-- README.md
+|   +-- environment.yml
+|   +-- test_loader.py
+|   +-- Model
+|   +-- assets
+|   |   +-- data_list.txt
+|   |   +-- dataset_raw
+|   |   +-- dataset_structured
+|   +-- config
+|   |   +-- train.yaml
+|   +-- dataset
+|   |   +-- model_dataset_custom.py
+|   |   +-- model_dataset_structured.py
+|   +-- model
+|   |   +-- config.yaml
+|   |   +-- model_2_fp16.ckpt
+|   +-- training
+|   |   +-- logs
+|   |   |   +-- inference.py
+|   |   |   +-- lora_config.json
+|   |   |   +-- train-2.py
+|   |   |   +-- train-3.py
+|   |   |   +-- train.py
+|   +-- utils
+|   +-- venv
 ```
 
 ---
