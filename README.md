@@ -88,8 +88,6 @@ Total files: 16
 |   |   +-- logs
 |   |   |   +-- inference.py
 |   |   |   +-- lora_config.json
-|   |   |   +-- train-2.py
-|   |   |   +-- train-3.py
 |   |   |   +-- train.py
 |   +-- utils
 |   +-- venv
